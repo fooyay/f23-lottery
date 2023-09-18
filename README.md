@@ -13,3 +13,11 @@ This project implements a provably random smart contract lottery.
 3. Use Chainlink VRF & Chainlink Automation
     1. Chainlink VRF -> Randomness
     2. Chainlink Automation -> Time based trigger
+
+## Tests
+
+1. write some deploy scripts
+2. write our tests
+    1. work on a local chain
+    2. forked testnet
+    3. forked mainnet
